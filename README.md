@@ -4,8 +4,7 @@
 
 ##
 
-<p align="center">Apaixonado por tecnologia e sempre buscando aprender mais e transformar código em soluções reais. Explorando, aprendendo e construindo projetos com dedicação! 
- Atualmente estou focado em melhorar minhas habilidades e conhecimentos em React. </p>
+<p align="center">Apaixonado por tecnologia e sempre buscando aprender mais e transformar código em soluções reais. Explorando, aprendendo e construindo projetos com dedicação!</p>
 
 ##
 
